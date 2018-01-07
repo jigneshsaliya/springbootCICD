@@ -1,0 +1,5 @@
+applications:
+- name: SpringBoot CICD
+  memory: 512MB
+  random-route: true
+  path: target/Starter-0.0.1-SNAPSHOT.war
