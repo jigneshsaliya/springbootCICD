@@ -22,4 +22,11 @@ public class StarterApplicationTests {
 		
 		assertEquals("Hellow World", sample);
 	}
+	
+	@Test
+	public void testAnother() {
+		String sample = "Hellow World";
+		
+		assertEquals("Hellow World1", sample);
+	}
 }
