@@ -27,6 +27,6 @@ public class StarterApplicationTests {
 	public void testAnother() {
 		String sample = "Hellow World";
 		
-		assertEquals("Hellow World1", sample);
+		assertEquals("Hellow World", sample);
 	}
 }
